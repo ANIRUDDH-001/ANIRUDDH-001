@@ -266,7 +266,7 @@ TypeScript • Workflow Automation • Backend Integrations • Product UI
 ## Competitive Programming
 
 - LeetCode Rating: ~1914 (Knight)
-- Problems Solved: 243+
+- Problems Solved: 250+
 - Global Ranking: Top ~4.1%
 - Contest Participation: 32+
 - Maximum Streak: 104 Days
